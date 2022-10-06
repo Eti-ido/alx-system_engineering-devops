@@ -4,3 +4,4 @@ current directory contents, including hidden files
 ls
 script that creates a directory named my_first_directory in the /tmp/ directory
 moving a file
+Delete the file betty

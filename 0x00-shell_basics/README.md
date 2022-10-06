@@ -5,3 +5,4 @@ ls
 script that creates a directory named my_first_directory in the /tmp/ directory
 moving a file
 Delete the file betty
+Delete the directory my_first_directory that is in the /tmp directory

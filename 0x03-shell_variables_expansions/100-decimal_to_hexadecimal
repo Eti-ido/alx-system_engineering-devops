@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "Dec to Hex = %x\n"
+printf '%x\n' $DECIMAL
